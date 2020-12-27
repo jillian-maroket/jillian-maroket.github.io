@@ -13,7 +13,7 @@ name                     : &name "Jillian Maroket"
 description              : &description "personal description"
 url                      : https://jillian-maroket.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jillian-maroket.github.io"
+repository               : "jillian-maroket/jillian-maroket.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jillian Maroket"
   avatar           : "profile.png"
-  bio              : "With 10 years of experience in technical communication, I can create user-centered content for product interfaces and help systems. I have always advocated for clear, consistent writing that facilitates understanding of complex concepts and task completion. My body of work includes documentation, microcopy, style guides, terminology lists, and process documents."
+  bio              : "I design with words"
   location         : "Taipei, Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
