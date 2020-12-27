@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Technical Writer + Content Architect"
+title                    : "Jillian Maroket"
 title_separator          : "-"
 name                     : &name "Jillian Maroket"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jillian Maroket"
   avatar           : "profile.png"
-  bio              : "I design with words"
+  bio              : "With 10 years of experience in technical communication, I can create user-centered content for product interfaces and help systems. I have always advocated for clear, consistent writing that facilitates understanding of complex concepts and task completion. My body of work includes documentation, microcopy, style guides, terminology lists, and process documents."
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
