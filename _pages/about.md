@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Jillian Maroket | Technical writer + Content Architect"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
