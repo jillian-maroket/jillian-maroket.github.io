@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jillian Maroket"
 title_separator          : "-"
 name                     : &name "Jillian Maroket"
-description              : &description "personal description"
+description              : &description "Technical Writer and Content Strategist"
 url                      : https://jillian-maroket.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jillian-maroket/jillian-maroket.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
