@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jillian Maroket"
   avatar           : "profile.png"
-  bio              : "With 10 years of experience in technical communication, I can create user-centered content for product interfaces and help systems. I have always advocated for clear, consistent writing that facilitates understanding of complex concepts and task completion. My body of work includes documentation, microcopy, style guides, terminology lists, and process documents."
+  bio              : "Designing with words | Staff Technical Writer at Trend Micro"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,9 +100,9 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/cjmaroket"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
