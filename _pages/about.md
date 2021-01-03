@@ -11,11 +11,21 @@ With over 10 years of experience in technical communication, I can create user-c
 
 # What I Do #
 
-Specialization | Summary | Description
-Content Strategy | Designing conversations between products and users | I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
-Documentation writing | Building help systems that enable users to complete tasks | I specialize in structured authoring, which is a standardized, methodological approach to content creation.
-UX writing | Creating user-centered content for web and mobile applications | I write interface text (also known as “microcopy”) that addresses what users feel and need at each step of their user journey.
-Technical marketing | | 
+## Content strategy ##
+* Designing conversations between products and users *
+I establish content types, structures, and formats, and use technology to efficiently develop, manage, and deliver content.
+
+## Documentation writing ##
+* Building help systems that enable users to complete tasks *
+I specialize in structured authoring, which is a standardized, methodological approach to content creation.
+
+## UX writing ##
+* Creating user-centered content for web and mobile applications *
+I write interface text (also known as “microcopy”) that addresses what users feel and need at each step of their user journey.
+
+## Technical marketing ##
+* Creating content that creates awareness about the specifications and technical aspects of a product or service *
+I write marketing collateral that explain how a product or service works, and how these features will benefit the user.
 
 # My Skills #
 
