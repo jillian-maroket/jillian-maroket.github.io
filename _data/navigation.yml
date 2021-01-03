@@ -1,22 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Documentation"
+    url: /documentation/
+ 
+  - title: "UX Writing"
+    url: /ux-writing/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Technical Marketing"
+    url: /technical-marketing/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blog/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
